@@ -8,3 +8,5 @@ function Notification.notify(Title, Text, Image, Duration)
         Duration = Duration;
         })
     end
+
+local Add = Notification
