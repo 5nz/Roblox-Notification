@@ -18,3 +18,6 @@ local Add = Notification
 Add:notify("Title Name Here", "Text Here", ImageID Here, Time Here)
 
 ```
+
+<p align="center">
+    <a>This is a built in Roblox Notification System Nothing Advanced</a>
